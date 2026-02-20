@@ -10,6 +10,7 @@
  */
 
 #include <Arduino.h>
+
 #define LDR_PIN A0
 
 void setup() {
